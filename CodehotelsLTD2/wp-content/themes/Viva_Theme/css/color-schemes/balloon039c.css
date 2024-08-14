@@ -1,0 +1,165 @@
+/* balloon color scheme */
+
+.balloon-color-scheme .wrapper .sidebar-inner .item-title-bg,
+.balloon-color-scheme #map .infobox-title,
+.balloon-color-scheme .btn-primary,
+.balloon-color-scheme .wrapper .page-title {
+    background-color: #8a9b0f;
+}
+
+.balloon-color-scheme a,
+.balloon-color-scheme .dropcap {
+    color: #8a9b0f;
+}
+
+body.balloon-color-scheme .easyreservationswidget .item-title-bg,
+.balloon-color-scheme.home .sidebar-inner .easyreservationswidget.widget:first-child .item-title-bg {
+    background-image: url("../../images/color-schemes/ballon-cal-medium-icon.png") !important;
+    background-color: #E97F02 !important;
+}
+
+body.balloon-color-scheme .easyreservationswidget .item-title-bg {
+    background-color: #E97F02 !important;
+}
+
+.balloon-color-scheme .tribe-events-list .tribe-events-event-cost,
+body.balloon-color-scheme .easy-button,
+body.balloon-color-scheme #easy_widget_form .easybutton {
+    background-color: #E97F02;
+}
+
+body.balloon-color-scheme .easy-button:hover,
+body.balloon-color-scheme #easy_widget_form .easybutton:hover {
+    background-color: #FF8A00;
+    /* lighter */
+}
+
+.balloon-color-scheme .header .navbar .nav>li.current-menu-item>a,
+.balloon-color-scheme .header .navbar .nav>li.current_page_item>a,
+.balloon-color-scheme .header .navbar .nav>li.current-menu-parent>a,
+.balloon-color-scheme .header .navbar .nav>li.dropdown:hover>a,
+.balloon-color-scheme .header .navbar .nav li.dropdown.open>.dropdown-toggle,
+.balloon-color-scheme .tribe-events-calendar-buttons a.tribe-events-button-on,
+body.balloon-color-scheme .nav-collapse .dropdown-menu .current_page_item>a,
+.balloon-color-scheme .header .navbar .nav>li.dropdown:hover>a,
+.balloon-color-scheme .header .navbar .nav>li.current-menu-item>a,
+.balloon-color-scheme .header .navbar .nav>li.current_page_item>a,
+.balloon-color-scheme .sidebar-inner .eventslistwidget h4 a:hover,
+.balloon-color-scheme .header .navbar .nav>li>a:focus,
+.balloon-color-scheme .header .navbar .nav>li>a:hover,
+.balloon-color-scheme .header .navbar .nav>.active>a,
+.balloon-color-scheme .header .navbar .nav>.active>a:hover,
+.balloon-color-scheme .header .navbar .nav>.active>a:focus,
+.balloon-color-scheme .header .dropdown-menu li>a:hover,
+.balloon-color-scheme .header .dropdown-menu li>a:focus,
+.balloon-color-scheme .header .dropdown-submenu:hover>a,
+.balloon-color-scheme .wrapper a:hover {
+    color: #E97F02 !important;
+}
+
+.balloon-color-scheme .header .dropdown-menu li.current-menu-item,
+.balloon-color-scheme .header .dropdown-menu li.current_page_item,
+.balloon-color-scheme .header .dropdown-menu li:hover {
+    border-color: #E97F02 !important;
+}
+
+.balloon-color-scheme .wrapper .btn.btn-primary,
+.balloon-color-scheme .wrapper .btn.btn-info,
+.balloon-color-scheme .wrapper .btn.btn-warning,
+.balloon-color-scheme .wrapper .btn.btn-success,
+.balloon-color-scheme .wrapper .btn.btn-danger,
+.balloon-color-scheme .wrapper .btn.btn-inverse,
+.balloon-color-scheme .wrapper .btn.btn-primary:hover,
+.balloon-color-scheme .wrapper .btn.btn-info:hover,
+.balloon-color-scheme .wrapper .btn.btn-warning:hover,
+.balloon-color-scheme .wrapper .btn.btn-success:hover,
+.balloon-color-scheme .wrapper .btn.btn-danger:hover,
+.balloon-color-scheme .wrapper .btn.btn-inverse:hover {
+    color: #fff !important;
+}
+
+.balloon-color-scheme .wrapper .btn,
+.balloon-color-scheme .wrapper .btn:hover {
+    color: #333333 !important;
+}
+
+.balloon-color-scheme .wrapper a.read_more_link:hover,
+.balloon-color-scheme .wrapper a.more-link:hover {
+    color: #fff !important;
+}
+
+.balloon-color-scheme .sb-search.sb-search-open .sb-icon-search,
+.no-js .sb-search .sb-icon-search {
+    background-color: #7A8A0A;
+    /* a bit darker */
+}
+
+.balloon-color-scheme #tribe-bar-form .tribe-bar-submit input[type=submit],
+.balloon-color-scheme #tribe-bar-form .tribe-bar-submit input[type=submit]:hover,
+.balloon-color-scheme .sb-icon-search,
+.balloon-color-scheme .modern_accommodations figcaption a.btn,
+.balloon-color-scheme .entry .more-link,
+.balloon-color-scheme .entry .read_more_link {
+    background-color: #8a9b0f;
+}
+
+.balloon-color-scheme .wrapper .sidebar-inner .easyreservationswidget .item-title-bg {
+    box-shadow: 0px 1px 0px 1px rgb(168, 91, 0);
+    /* a bit darker */
+}
+
+.balloon-color-scheme .ribbon-green,
+.balloon-color-scheme .wrapper .room_price {
+    background-color: #E97F02;
+    box-shadow: 0px 2px 0px 0px rgb(168, 91, 0);
+    /* a bit darker */
+}
+
+.balloon-color-scheme .wrapper .sidebar-inner .easyreservationswidget .item-title-bg h4 {
+    text-shadow: 0 1px 0px rgb(168, 91, 0);
+}
+
+body.balloon-color-scheme .easy-button,
+body.balloon-color-scheme #easy_widget_form .easybutton {
+    text-shadow: 0 1px 0px rgb(168, 91, 0);
+    box-shadow: 0px 2px 0px 0px rgb(168, 91, 0);
+}
+
+/****/
+
+.balloon-color-scheme #map .infobox-title,
+.balloon-color-scheme .wrapper .sidebar-inner .item-title-bg,
+.balloon-color-scheme .wrapper .page-title {
+    box-shadow: 0px 1px 0px 1px #798809;
+    /* a bit darker */
+}
+
+.balloon-color-scheme #tribe-bar-form .tribe-bar-submit input[type=submit],
+.balloon-color-scheme #tribe-bar-form .tribe-bar-submit input[type=submit]:hover,
+.balloon-color-scheme .modern_accommodations figcaption a.btn,
+.balloon-color-scheme .entry .more-link,
+.balloon-color-scheme .entry .read_more_link {
+    text-shadow: 0 1px 0px #798809;
+    /* a bit darker */
+}
+
+.balloon-color-scheme #map h3,
+.balloon-color-scheme .wrapper .page-title h1 {
+    text-shadow: 0px 2px 0px #798809;
+    /* a bit darker */
+}
+
+.balloon-color-scheme .btn-primary {
+    text-shadow: 0px 1px 0px #798809;
+    /* a bit darker */
+}
+
+.balloon-color-scheme #tribe-bar-form .tribe-bar-submit input[type=submit],
+.balloon-color-scheme #tribe-bar-form .tribe-bar-submit input[type=submit]:hover,
+.balloon-color-scheme .modern_accommodations figcaption a.btn,
+.balloon-color-scheme .entry .more-link,
+.balloon-color-scheme .entry .read_more_link,
+.balloon-color-scheme .btn-primary {
+    box-shadow: 0px 2px 0px 0px #798809;
+    /* a bit darker */
+}

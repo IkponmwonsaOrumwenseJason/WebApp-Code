@@ -1,0 +1,165 @@
+/* cocoa color scheme */
+
+.cocoa-color-scheme .wrapper .sidebar-inner .item-title-bg,
+.cocoa-color-scheme #map .infobox-title,
+.cocoa-color-scheme .btn-primary,
+.cocoa-color-scheme .wrapper .page-title {
+    background-color: #755C3B;
+}
+
+.cocoa-color-scheme a,
+.cocoa-color-scheme .dropcap {
+    color: #755C3B;
+}
+
+body.cocoa-color-scheme .easyreservationswidget .item-title-bg,
+.cocoa-color-scheme.home .sidebar-inner .easyreservationswidget.widget:first-child .item-title-bg {
+    background-image: url("../../images/color-schemes/cocoa-cal-medium-icon.png") !important;
+    background-color: #EB6841 !important;
+}
+
+body.cocoa-color-scheme .easyreservationswidget .item-title-bg {
+    background-color: #EB6841 !important;
+}
+
+.cocoa-color-scheme .tribe-events-list .tribe-events-event-cost,
+body.cocoa-color-scheme .easy-button,
+body.cocoa-color-scheme #easy_widget_form .easybutton {
+    background-color: #EB6841;
+}
+
+body.cocoa-color-scheme .easy-button:hover,
+body.cocoa-color-scheme #easy_widget_form .easybutton:hover {
+    background-color: #FF5A28;
+    /* lighter */
+}
+
+.cocoa-color-scheme .header .navbar .nav>li.current-menu-item>a,
+.cocoa-color-scheme .header .navbar .nav>li.current_page_item>a,
+.cocoa-color-scheme .header .navbar .nav>li.current-menu-parent>a,
+.cocoa-color-scheme .header .navbar .nav>li.dropdown:hover>a,
+.cocoa-color-scheme .header .navbar .nav li.dropdown.open>.dropdown-toggle,
+.cocoa-color-scheme .tribe-events-calendar-buttons a.tribe-events-button-on,
+body.cocoa-color-scheme .nav-collapse .dropdown-menu .current_page_item>a,
+.cocoa-color-scheme .header .navbar .nav>li.dropdown:hover>a,
+.cocoa-color-scheme .header .navbar .nav>li.current-menu-item>a,
+.cocoa-color-scheme .header .navbar .nav>li.current_page_item>a,
+.cocoa-color-scheme .sidebar-inner .eventslistwidget h4 a:hover,
+.cocoa-color-scheme .header .navbar .nav>li>a:focus,
+.cocoa-color-scheme .header .navbar .nav>li>a:hover,
+.cocoa-color-scheme .header .navbar .nav>.active>a,
+.cocoa-color-scheme .header .navbar .nav>.active>a:hover,
+.cocoa-color-scheme .header .navbar .nav>.active>a:focus,
+.cocoa-color-scheme .header .dropdown-menu li>a:hover,
+.cocoa-color-scheme .header .dropdown-menu li>a:focus,
+.cocoa-color-scheme .header .dropdown-submenu:hover>a,
+.cocoa-color-scheme .wrapper a:hover {
+    color: #EB6841 !important;
+}
+
+.cocoa-color-scheme .header .dropdown-menu li.current-menu-item,
+.cocoa-color-scheme .header .dropdown-menu li.current_page_item,
+.cocoa-color-scheme .header .dropdown-menu li:hover {
+    border-color: #EB6841 !important;
+}
+
+.cocoa-color-scheme .wrapper .btn.btn-primary,
+.cocoa-color-scheme .wrapper .btn.btn-info,
+.cocoa-color-scheme .wrapper .btn.btn-warning,
+.cocoa-color-scheme .wrapper .btn.btn-success,
+.cocoa-color-scheme .wrapper .btn.btn-danger,
+.cocoa-color-scheme .wrapper .btn.btn-inverse,
+.cocoa-color-scheme .wrapper .btn.btn-primary:hover,
+.cocoa-color-scheme .wrapper .btn.btn-info:hover,
+.cocoa-color-scheme .wrapper .btn.btn-warning:hover,
+.cocoa-color-scheme .wrapper .btn.btn-success:hover,
+.cocoa-color-scheme .wrapper .btn.btn-danger:hover,
+.cocoa-color-scheme .wrapper .btn.btn-inverse:hover {
+    color: #fff !important;
+}
+
+.cocoa-color-scheme .wrapper .btn,
+.cocoa-color-scheme .wrapper .btn:hover {
+    color: #333333 !important;
+}
+
+.cocoa-color-scheme .wrapper a.read_more_link:hover,
+.cocoa-color-scheme .wrapper a.more-link:hover {
+    color: #fff !important;
+}
+
+.cocoa-color-scheme .sb-search.sb-search-open .sb-icon-search,
+.no-js .sb-search .sb-icon-search {
+    background-color: #6F5532;
+    /* a bit darker */
+}
+
+.cocoa-color-scheme #tribe-bar-form .tribe-bar-submit input[type=submit],
+.cocoa-color-scheme #tribe-bar-form .tribe-bar-submit input[type=submit]:hover,
+.cocoa-color-scheme .sb-icon-search,
+.cocoa-color-scheme .modern_accommodations figcaption a.btn,
+.cocoa-color-scheme .entry .more-link,
+.cocoa-color-scheme .entry .read_more_link {
+    background-color: #755C3B;
+}
+
+.cocoa-color-scheme .wrapper .sidebar-inner .easyreservationswidget .item-title-bg {
+    box-shadow: 0px 1px 0px 1px #CC4C25;
+    /* a bit darker */
+}
+
+.cocoa-color-scheme .ribbon-green,
+.cocoa-color-scheme .wrapper .room_price {
+    background-color: #EB6841;
+    box-shadow: 0px 2px 0px 0px #CC4C25;
+    /* a bit darker */
+}
+
+.cocoa-color-scheme .wrapper .sidebar-inner .easyreservationswidget .item-title-bg h4 {
+    text-shadow: 0 1px 0px #CC4C25;
+}
+
+body.cocoa-color-scheme .easy-button,
+body.cocoa-color-scheme #easy_widget_form .easybutton {
+    text-shadow: 0 1px 0px #CC4C25;
+    box-shadow: 0px 2px 0px 0px #CC4C25;
+}
+
+/****/
+
+.cocoa-color-scheme #map .infobox-title,
+.cocoa-color-scheme .wrapper .sidebar-inner .item-title-bg,
+.cocoa-color-scheme .wrapper .page-title {
+    box-shadow: 0px 1px 0px 1px #634B2B;
+    /* a bit darker */
+}
+
+.cocoa-color-scheme #tribe-bar-form .tribe-bar-submit input[type=submit],
+.cocoa-color-scheme #tribe-bar-form .tribe-bar-submit input[type=submit]:hover,
+.cocoa-color-scheme .modern_accommodations figcaption a.btn,
+.cocoa-color-scheme .entry .more-link,
+.cocoa-color-scheme .entry .read_more_link {
+    text-shadow: 0 1px 0px #634B2B;
+    /* a bit darker */
+}
+
+.cocoa-color-scheme #map h3,
+.cocoa-color-scheme .wrapper .page-title h1 {
+    text-shadow: 0px 2px 0px #634B2B;
+    /* a bit darker */
+}
+
+.cocoa-color-scheme .btn-primary {
+    text-shadow: 0px 1px 0px #634B2B;
+    /* a bit darker */
+}
+
+.cocoa-color-scheme #tribe-bar-form .tribe-bar-submit input[type=submit],
+.cocoa-color-scheme #tribe-bar-form .tribe-bar-submit input[type=submit]:hover,
+.cocoa-color-scheme .modern_accommodations figcaption a.btn,
+.cocoa-color-scheme .entry .more-link,
+.cocoa-color-scheme .entry .read_more_link,
+.cocoa-color-scheme .btn-primary {
+    box-shadow: 0px 2px 0px 0px #634B2B;
+    /* a bit darker */
+}

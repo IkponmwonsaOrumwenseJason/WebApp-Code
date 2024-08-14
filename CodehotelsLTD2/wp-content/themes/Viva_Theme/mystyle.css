@@ -1,0 +1,328 @@
+.modal-backdrop,
+.modal-backdrop.fade.in {
+    opacity: 0 !important;
+}
+
+#myModal {
+    height: 475px;
+    margin: 0 auto !important;
+    width: 57% !important;
+}
+
+.modal-dialog {
+    margin: 0;
+    width: 768px !important;
+}
+
+.modern_accommodations .entry-title a,
+.entry .entry-title a {
+    margin-bottom: 0 !important;
+}
+
+.entry .entry-title {
+    margin-top: -5px !important;
+}
+
+.footer-content #first {
+    width: 24%;
+}
+
+.footer-content #second {
+    margin-left: 10px;
+    width: 30%;
+}
+
+.footer-content #third {
+    /*padding-left:25px;*/
+    width: 16%;
+}
+
+.home .offer-image .open_entry_image {
+    padding-bottom: 20px;
+}
+
+.foot-hotel a {
+    color: #ccc !important;
+}
+
+.foot-hotel a:hover {
+    text-decoration: none !important;
+}
+
+.offer-text p {
+    color: #666666 !important;
+    line-height: 28px !important;
+    margin-bottom: 12px !important;
+    padding: 5px 2px 3px;
+    text-align: justify;
+}
+
+.row-fluid .span3 {
+    /*width: 27% !important;*/
+}
+
+.row-fluid .span6 {
+    width: 39% !important;
+}
+
+.footer {
+    padding: 0 28px;
+}
+
+.tab_offer {
+    margin-bottom: 14px !important;
+}
+
+.tab_offer th,
+.tab_offer td {
+    padding: 10px;
+    border: solid 1px #ccc;
+}
+
+.tab_offer th {
+    background-color: #feb041 !important;
+    color: #fff !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+}
+
+.tab_offer td {
+    font-size: 16px !important;
+    color: #666 !important;
+    ;
+}
+
+.map1 {
+    float: left;
+    margin-bottom: 30px !important;
+}
+
+.cont-add {
+    float: left;
+    width: 335px;
+    font-size: 15px !important;
+}
+
+.google-map {
+    float: right !important;
+    padding-left: 15px;
+}
+
+.wpcf7 input {
+    padding: 20px;
+}
+
+.wpcf7-submit {
+    margin-top: 20px !important;
+    padding-top: 7px !important;
+}
+
+.modern_accommodations figcaption .entry-title {
+    padding-top: 8px !important;
+}
+
+.entry-image {
+    box-shadow: none !important;
+}
+
+img.attachment-offer-image-large,
+.entry-image img.open_entry_image,
+.entry .entry-image img.open_entry_image,
+.entry .offer-image img.open_entry_image,
+.accommodation-image img.open_entry_image {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+    width: 100%;
+}
+
+.gallery-item img {
+    height: 125px !important;
+}
+
+.divider {
+    margin: 10px 0 5px -10px !important;
+}
+
+.abt_para span {
+    color: #DBA63F;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+.wrapper .vh-pages-wrapper.vh-carousel-pages-wrapper {
+    padding-bottom: 65px;
+}
+
+#TB_closeWindow {
+    padding: 5px 12px 10px 0;
+}
+
+.hotel_sel {
+    padding-right: 45px;
+}
+
+select,
+.room_tariff input {
+    background-color: #ffffff !important;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    .hotel_sel {
+        padding-right: 0px;
+        /*width: 85% !important;*/
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+}
+
+.booking label {
+    padding-bottom: 10px;
+    color: #DBA63F;
+    font-family: Open Sans;
+    font-weight: normal;
+    padding-top: 10px;
+}
+
+.booking input {
+    background-color: #fff !important;
+    background-image: none;
+    border: 1px solid #ccc !important;
+    border-radius: 4px !important;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset !important;
+    color: #555 !important;
+    display: block;
+    font-size: 14px !important;
+    height: 34px !important;
+    line-height: 1.42857 !important;
+    padding: 6px 48px 6px 12px !important;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s !important;
+    width: 100%;
+}
+
+.booking .btn-warning {
+    margin-top: 27px;
+    border: 1px solid #f99d1a;
+    border-radius: 5px;
+    font-size: 15.6px;
+    padding: 5px 12px;
+}
+
+.ui-datepicker-trigger {
+    position: relative;
+    right: 25px;
+}
+
+/*home page*/
+
+.home-widget {
+    border: 2px solid #e6e6e6;
+    padding: 3px 3px 2px 2px;
+}
+
+.hme_para {
+    color: #666666 !important;
+    padding: 5px 2px 3px;
+    text-align: justify;
+    line-height: 28px !important;
+    margin-bottom: 12px !important;
+    margin-top: -28px !important;
+}
+
+.img-hd {
+    text-align: left !important;
+    padding-top: 3px;
+    color: #888 !Important;
+    margin-bottom: 0 !important;
+}
+
+.home .offer-image {
+    padding-left: 25px !important;
+    width: 255px !important;
+}
+
+.home .ribbon-green {
+    margin-left: 21px !important;
+}
+
+/*.home{
+margin-top:-15px !important;
+}*/
+
+.home .wrapper .vh-pages-wrapper.vh-carousel-pages-wrapper {
+    padding-bottom: 35px !important;
+}
+
+.home .offer-wrapper.offers_carousel {
+    height: 222px !important;
+}
+
+.footer .widget li {
+    border: none !important;
+    list-style-type: disc !important;
+    /*margin-left:13px !important;*/
+    font-size: 16px !important;
+    line-height: 22px !important;
+}
+
+.page-sidebar-no .modern_accommodations .entry-title a {
+    color: #666 !important;
+    font-size: 18px !important;
+    font-weight: normal !important;
+    padding-top: 10px !important;
+}
+
+/*accomodation*/
+
+.modern_accommodation {
+    /*padding-bottom:0 !important;*/
+}
+
+.main-inner .entry-content {
+    margin-bottom: 0 !important;
+    margin-left: 25px;
+    margin-right: 25 !important;
+    margin-top: 25 !important;
+    padding-bottom: 0 !important;
+    padding-right: 0 !important;
+}
+
+.onsite li strong {
+    color: #999 !important;
+}
+
+.onsite li {
+    color: #888 !important;
+    font-size: 15px !important;
+    line-height: 30px !important;
+}
+
+.one_fifth {
+    margin-right: 3.2% !important;
+}
+
+.room-title {
+    color: #dca740 !important;
+    ;
+    font-family: open sans !important;
+    font-size: 20px !important;
+    margin-top: 0 !important;
+}
+
+.room-title1 {
+    color: #dca740 !important;
+    ;
+    font-family: open sans !important;
+    font-size: 20px !important;
+}
+
+.room-list li {
+    color: #858585 !important;
+}
+
+/*.header .above_header_container{
+margin-top:15px !important;
+}*/

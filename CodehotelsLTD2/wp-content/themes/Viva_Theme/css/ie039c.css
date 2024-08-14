@@ -1,0 +1,41 @@
+/* IE 9 */
+
+.dropdown-menu li>a:hover,
+.dropdown-menu li>a:focus,
+.dropdown-submenu:hover>a {
+    filter: none !important;
+}
+
+#easy_widget_form .easybutton,
+.easy-button,
+.navbar-inner {
+    filter: none !important;
+}
+
+.breadcrumb a,
+.breadcrumb span {
+    color: #595959;
+    font-family: "Oswald", sans-serif;
+    font-size: 22px;
+}
+
+/* IE 7 */
+
+.dropdown-menu li>a:hover,
+.dropdown-menu li>a:focus,
+.dropdown-submenu:hover>a {
+    filter: none !important;
+}
+
+#easy_widget_form .easybutton,
+.easy-button,
+.navbar-inner {
+    filter: none !important;
+}
+
+.breadcrumb a,
+.breadcrumb span {
+    color: #595959;
+    font-family: "Oswald", sans-serif;
+    font-size: 22px;
+}
